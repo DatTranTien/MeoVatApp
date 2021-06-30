@@ -1,3 +1,3 @@
 # MeoVatApp
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=6QC-d9xNN2s)
+[![Watch the video](https://www.appschopper.com/blog/wp-content/uploads/2020/09/swift-app-development.png)](https://www.youtube.com/watch?v=6QC-d9xNN2s)
