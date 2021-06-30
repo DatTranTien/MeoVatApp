@@ -1,0 +1,6 @@
+framework module Pods_MeoVat {
+  umbrella header "Pods-MeoVat-umbrella.h"
+
+  export *
+  module * { export * }
+}

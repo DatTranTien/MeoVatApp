@@ -1,0 +1,436 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		183EAB52267DE43F009D7B50 /* DetaiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EAB51267DE43F009D7B50 /* DetaiViewController.swift */; };
+		183EAB56267DEB31009D7B50 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EAB55267DEB31009D7B50 /* SearchViewController.swift */; };
+		1888B409267BA3050060F321 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1888B408267BA3050060F321 /* AppDelegate.swift */; };
+		1888B40B267BA3050060F321 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1888B40A267BA3050060F321 /* SceneDelegate.swift */; };
+		1888B40D267BA3050060F321 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1888B40C267BA3050060F321 /* ViewController.swift */; };
+		1888B410267BA3050060F321 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1888B40E267BA3050060F321 /* Main.storyboard */; };
+		1888B412267BA3080060F321 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1888B411267BA3080060F321 /* Assets.xcassets */; };
+		1888B415267BA3080060F321 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1888B413267BA3080060F321 /* LaunchScreen.storyboard */; };
+		18A0814A2681DB2E0088D0CE /* HeathyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A081492681DB2E0088D0CE /* HeathyViewController.swift */; };
+		18A081572681F5030088D0CE /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A081562681F5030088D0CE /* FavoriteViewController.swift */; };
+		18B3705F2680AD8900E26C7D /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B3705E2680AD8900E26C7D /* MenuViewController.swift */; };
+		D3ADB2221CF226BD84445226 /* Pods_MeoVat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B72D35A2FFCBA9D3DBA8C8F1 /* Pods_MeoVat.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		183EAB51267DE43F009D7B50 /* DetaiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetaiViewController.swift; sourceTree = "<group>"; };
+		183EAB55267DEB31009D7B50 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		1888B405267BA3050060F321 /* MeoVat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeoVat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1888B408267BA3050060F321 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1888B40A267BA3050060F321 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1888B40C267BA3050060F321 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1888B40F267BA3050060F321 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1888B411267BA3080060F321 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1888B414267BA3080060F321 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1888B416267BA3080060F321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18A081492681DB2E0088D0CE /* HeathyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeathyViewController.swift; sourceTree = "<group>"; };
+		18A081562681F5030088D0CE /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
+		18B3705E2680AD8900E26C7D /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		72BF7FC71FC7CC02A0C832F6 /* Pods-MeoVat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeoVat.debug.xcconfig"; path = "Target Support Files/Pods-MeoVat/Pods-MeoVat.debug.xcconfig"; sourceTree = "<group>"; };
+		B72D35A2FFCBA9D3DBA8C8F1 /* Pods_MeoVat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MeoVat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB841EE0201E16D6322FD9E2 /* Pods-MeoVat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeoVat.release.xcconfig"; path = "Target Support Files/Pods-MeoVat/Pods-MeoVat.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1888B402267BA3050060F321 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3ADB2221CF226BD84445226 /* Pods_MeoVat.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1888B3FC267BA3050060F321 = {
+			isa = PBXGroup;
+			children = (
+				1888B407267BA3050060F321 /* MeoVat */,
+				1888B406267BA3050060F321 /* Products */,
+				AD08855E38707BE74FBD19DE /* Pods */,
+				CD747279DE5ECED9D061448D /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		1888B406267BA3050060F321 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1888B405267BA3050060F321 /* MeoVat.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1888B407267BA3050060F321 /* MeoVat */ = {
+			isa = PBXGroup;
+			children = (
+				1888B408267BA3050060F321 /* AppDelegate.swift */,
+				1888B40A267BA3050060F321 /* SceneDelegate.swift */,
+				1888B40C267BA3050060F321 /* ViewController.swift */,
+				1888B40E267BA3050060F321 /* Main.storyboard */,
+				1888B411267BA3080060F321 /* Assets.xcassets */,
+				1888B413267BA3080060F321 /* LaunchScreen.storyboard */,
+				1888B416267BA3080060F321 /* Info.plist */,
+				183EAB51267DE43F009D7B50 /* DetaiViewController.swift */,
+				183EAB55267DEB31009D7B50 /* SearchViewController.swift */,
+				18B3705E2680AD8900E26C7D /* MenuViewController.swift */,
+				18A081492681DB2E0088D0CE /* HeathyViewController.swift */,
+				18A081562681F5030088D0CE /* FavoriteViewController.swift */,
+			);
+			path = MeoVat;
+			sourceTree = "<group>";
+		};
+		AD08855E38707BE74FBD19DE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				72BF7FC71FC7CC02A0C832F6 /* Pods-MeoVat.debug.xcconfig */,
+				FB841EE0201E16D6322FD9E2 /* Pods-MeoVat.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		CD747279DE5ECED9D061448D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B72D35A2FFCBA9D3DBA8C8F1 /* Pods_MeoVat.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1888B404267BA3050060F321 /* MeoVat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1888B419267BA3080060F321 /* Build configuration list for PBXNativeTarget "MeoVat" */;
+			buildPhases = (
+				3B552C4B81903906A7FE90A4 /* [CP] Check Pods Manifest.lock */,
+				1888B401267BA3050060F321 /* Sources */,
+				1888B402267BA3050060F321 /* Frameworks */,
+				1888B403267BA3050060F321 /* Resources */,
+				4C6C40AEC71BA26F39ECB9B2 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MeoVat;
+			productName = MeoVat;
+			productReference = 1888B405267BA3050060F321 /* MeoVat.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1888B3FD267BA3050060F321 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					1888B404267BA3050060F321 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = 1888B400267BA3050060F321 /* Build configuration list for PBXProject "MeoVat" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1888B3FC267BA3050060F321;
+			productRefGroup = 1888B406267BA3050060F321 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1888B404267BA3050060F321 /* MeoVat */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1888B403267BA3050060F321 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1888B415267BA3080060F321 /* LaunchScreen.storyboard in Resources */,
+				1888B412267BA3080060F321 /* Assets.xcassets in Resources */,
+				1888B410267BA3050060F321 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3B552C4B81903906A7FE90A4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeoVat-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4C6C40AEC71BA26F39ECB9B2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MeoVat/Pods-MeoVat-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MeoVat/Pods-MeoVat-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MeoVat/Pods-MeoVat-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1888B401267BA3050060F321 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18A0814A2681DB2E0088D0CE /* HeathyViewController.swift in Sources */,
+				183EAB56267DEB31009D7B50 /* SearchViewController.swift in Sources */,
+				1888B40D267BA3050060F321 /* ViewController.swift in Sources */,
+				18A081572681F5030088D0CE /* FavoriteViewController.swift in Sources */,
+				183EAB52267DE43F009D7B50 /* DetaiViewController.swift in Sources */,
+				1888B409267BA3050060F321 /* AppDelegate.swift in Sources */,
+				1888B40B267BA3050060F321 /* SceneDelegate.swift in Sources */,
+				18B3705F2680AD8900E26C7D /* MenuViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1888B40E267BA3050060F321 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1888B40F267BA3050060F321 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1888B413267BA3080060F321 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1888B414267BA3080060F321 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1888B417267BA3080060F321 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1888B418267BA3080060F321 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1888B41A267BA3080060F321 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72BF7FC71FC7CC02A0C832F6 /* Pods-MeoVat.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = SCHUVG6ZJ7;
+				INFOPLIST_FILE = MeoVat/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = JV.MeoVat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1888B41B267BA3080060F321 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FB841EE0201E16D6322FD9E2 /* Pods-MeoVat.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = SCHUVG6ZJ7;
+				INFOPLIST_FILE = MeoVat/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = JV.MeoVat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1888B400267BA3050060F321 /* Build configuration list for PBXProject "MeoVat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1888B417267BA3080060F321 /* Debug */,
+				1888B418267BA3080060F321 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1888B419267BA3080060F321 /* Build configuration list for PBXNativeTarget "MeoVat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1888B41A267BA3080060F321 /* Debug */,
+				1888B41B267BA3080060F321 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1888B3FD267BA3050060F321 /* Project object */;
+}
