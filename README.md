@@ -2,4 +2,4 @@
 
 Click to Demo App!!!
 
-[![Watch the video](https://d33wubrfki0l68.cloudfront.net/d74da08f08b4a17c368b58d36ee23c368b4a6819/fff62/img/homepage/phones.png)](https://www.youtube.com/watch?v=IwOHIx_8Ics)
+[![Watch the video](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/181824-que-es-swift.jpg)](https://www.youtube.com/watch?v=6QC-d9xNN2s)
